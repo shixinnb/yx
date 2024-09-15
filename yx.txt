@@ -1,5 +1,5 @@
-yx.xinya.us.kg:443#联通电信
-yx1.xinya.us.kg:443#联通电信
-v1.xinya.us.kg:443#联通电信
+yx.xinya.us.kg:443#联通移动
+yx1.xinya.us.kg:443#联通移动
+v1.xinya.us.kg:443#联通移动
 8.217.45.219:42291#电信HK
 23.106.141.25:110#JP
